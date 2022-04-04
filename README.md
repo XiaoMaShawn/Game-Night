@@ -8,10 +8,8 @@ Welcome to GameNights it's an application that allows users to create game night
 
 ![Rooms page](https://github.com/AliHashemi86/game-nights/blob/master/docs/FinalRooms.gif?raw=true)
 
-## API LINK
-listed below is the API Repo link that contains the Database for this project
-
-[gamenight-api](https://github.com/ShayFae/gamenight-api)
+## API 
+game-night-server is the API that contains the Database for this project
 
 ## Dependencies 
 
